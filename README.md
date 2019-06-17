@@ -7,12 +7,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
 </head>
 <head>
-  
-  <title>Bootstrap Theme Simply Me</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
@@ -61,15 +58,11 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 </head>
 <body class="container">
-
-
-
-<i class="glyphicon glyphicon-thumbs-up" " style="font-size:48px;color:red"></i>
-<body>
 <table cellspacing="20">
  
 <div><font size="4">Personal details</font>
-<p>              email:pallavivivek765@gmail.com<br>phno:8861321765<br>address:Tumkur</p><i class="glyphicon glyphicon-envelope" " style="font-size:48px;color:red"></i>
+<p>              email:pallavivivek765@gmail.com<br>phno:8861321765<br>address:Tumkur</p>
+  <i class="glyphicon glyphicon-envelope" " style="font-size:48px;color:red"></i>
 <h3>             email: <a href="mailto:pallavivivek765@gmail.com">email link</a></h3></div>
 <h4 style="background-color:gray">EDUCATION:</h4>
 <div class="container">
@@ -123,7 +116,7 @@ body {
 <div class="container">
   
   <div class="progress">
-    <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:90%">
+   <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:90%">
       90% C
     </div>
   </div>
