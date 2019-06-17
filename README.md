@@ -1,5 +1,5 @@
 # bootstrap
-#<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <title>My Personal Website</title>
@@ -152,7 +152,6 @@ body {
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-</head>
 <body class="container">
 <i class="glyphicon glyphicon-cloud" style="font-size:24px;"></i>
 <i class="glyphicon glyphicon-cloud" style="font-size:36px;"></i>
