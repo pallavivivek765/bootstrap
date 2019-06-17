@@ -78,13 +78,13 @@
 </div>
         <th>Percentage</th>
         <th>Year</th>
-      </tr>
+       </tr>
+     
     </thead>
     <tbody>
         <td>chethana vidya mandira high school</td>
         <td>80%</td>
-        <td>2014-15</td>
-      </tr>      
+        <td>2014-15</td>     
       <tr class="success">
         <td>sarvodaya pu college</td>
         <td>75%</td>
