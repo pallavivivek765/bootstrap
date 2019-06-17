@@ -68,10 +68,10 @@
   <table class="table">
     <thead>
       <tr>
-        <th>Educational Institute</th> </div>
-</body>
+        <th>Educational Institute</th> 
 
-</html>
+
+
 <div class="container">
           
   <img src="edu.jpg" class="rounded-circle" alt="logo" width="200" height="200"> 
@@ -160,5 +160,3 @@ body {
 <i class="glyphicon glyphicon-cloud" style="font-size:60px;color:red;"></i>
 
 
-</body>
-</html>
