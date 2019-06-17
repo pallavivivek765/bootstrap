@@ -1,5 +1,5 @@
 # bootstrap
-<!DOCTYPE html>
+#<!DOCTYPE html>
 <html lang="en">
 <head>
   <title>My Personal Website</title>
@@ -39,7 +39,7 @@
 </div>
 
 <div class="container-fluid bg-2 text-center">
-  <p>I am pallavi, studying 5th sem computer science engg </em>at Siddaganga institute of technology,Tumkur</p>
+  <p>I am pallavi, studying 5th sem computer science engg at Siddaganga institute of technology,Tumkur</p>
 </div>
 <div class="container">
   
@@ -50,19 +50,18 @@
     <button type="button" class="btn btn-primary">INTRESTS</button>
   </div>
 </div>
-</div>
+
 
 <div class="container-fluid bg-3 text-center">
   
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-</head>
 <body class="container">
 <table cellspacing="20">
  
 <div><font size="4">Personal details</font>
 <p>              email:pallavivivek765@gmail.com<br>phno:8861321765<br>address:Tumkur</p>
-  <i class="glyphicon glyphicon-envelope" " style="font-size:48px;color:red"></i>
+  <i class="glyphicon glyphicon-envelope" " style="font-size:48px;color:"red"></i>
 <h3>             email: <a href="mailto:pallavivivek765@gmail.com">email link</a></h3></div>
 <h4 style="background-color:gray">EDUCATION:</h4>
 <div class="container">
@@ -160,6 +159,6 @@ body {
 <i class="glyphicon glyphicon-cloud" style="font-size:48px;color:red;"></i>
 <i class="glyphicon glyphicon-cloud" style="font-size:60px;color:red;"></i>
 
-</div>
+
 </body>
 </html>
