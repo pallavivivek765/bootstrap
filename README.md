@@ -157,5 +157,20 @@ body {
 <i class="glyphicon glyphicon-cloud" style="font-size:36px;"></i>
 <i class="glyphicon glyphicon-cloud" style="font-size:48px;color:red;"></i>
 <i class="glyphicon glyphicon-cloud" style="font-size:60px;color:red;"></i>
+<style>
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+</style>
+<a href="https://google.com" target="_blank">google</a>
+
+<a href="https://github.com" target="_blank">github</a>
+
 
 
