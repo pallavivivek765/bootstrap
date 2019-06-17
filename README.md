@@ -1,4 +1,3 @@
-# bootstrap
 <html lang="en">
 <head>
   <title>My Personal Website</title>
