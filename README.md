@@ -1,5 +1,5 @@
 # bootstrap
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <title>My Personal Website</title>
